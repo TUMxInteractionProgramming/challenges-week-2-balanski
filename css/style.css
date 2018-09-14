@@ -33,14 +33,6 @@
       /* #2 #font capital #letters */
       text-transform: uppercase;
   }
-
-    /*button {
-        
-        background-color: #CDDC39;
-        color: black;
-        
-        text-transform: uppercase;
-    }*/
     .uppercase{text-transform: uppercase;}
 
 
